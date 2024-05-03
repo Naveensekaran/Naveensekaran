@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Web Application**
 
-- 💬 Ask me about **Angular, Java**
+- 💬 Ask me about **Angular, Spring Boot**
 
 - 📫 How to reach me **naveen.sekaran01@gmail.com**
 
