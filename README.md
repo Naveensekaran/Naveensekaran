@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveenkumar</h1>
-<h3 align="center">I'm a passionate software developer with experience in building web applications using Angular, Java, Spring Boot, and PostgreSQL. I enjoy solving complex problems and continuously learning new technologies.
+<h3 align="center">I'm a passionate software developer with experience in building web applications using Angular, Spring Boot and PostgreSQL. I enjoy solving complex problems and continuously learning new technologies.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveensekaran&label=Profile%20views&color=0e75b6&style=flat" alt="naveensekaran" /> </p>
