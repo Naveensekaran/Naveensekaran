@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **National Card Projects**
 
-- 🌱 I’m currently learning **Desktop Application**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👯 I’m looking to collaborate on **National Card Projects**
 
